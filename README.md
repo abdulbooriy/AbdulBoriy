@@ -3,14 +3,14 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Abdulboriy</h1>
+<h1 align="center">Assalamu alaykum, I'm Abdulboriy Mahamatjanov</h1>
 <h3 align="center">A passionate Full-Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/scrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulbooriy" alt="abdulbooriy" /></a> </p>
 
-- 🌱 I’m currently learning **VueJS , AI**
+- 🌱 I’m currently learning **VueJS + NodeJs, AI**
 
-- 📝 I regularly write articles on [VS code](VS code)
+- 📝 I regularly write articles on [VS code]
 
 - 📫 How to reach me **abdulborimahamatjanov@gmail.com**
 
