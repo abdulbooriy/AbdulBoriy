@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **VueJS + NodeJs, AI**
 
-- 📝 I regularly write articles on [VS code](VS code)
+- 📝 I regularly write articles on [VS code]
 
 - 📫 How to reach me **abdulborimahamatjanov@gmail.com**
 
